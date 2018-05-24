@@ -1,0 +1,15 @@
+---
+layout: landing
+---
+
+<section id="banner">
+  <div class="inner">
+    <h2>{{ site.title }}</h2>
+    <p>{{ site.description | markdownify }}</p>
+  </div>
+  <a href="#details" class="more scrolly">Details</a>
+</section>
+
+<section id="details" class="wrapper style1 special">
+  {% include sections/details.html %}
+</section>
