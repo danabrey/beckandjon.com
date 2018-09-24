@@ -6,6 +6,7 @@ layout: landing
   <div class="inner">
     <h2>{{ site.title }}</h2>
     <p>{{ site.description | markdownify }}</p>
+    <h3 id="countdown"></h3>
   </div>
   <a href="#details" class="more scrolly">Details</a>
 </section>
@@ -16,4 +17,8 @@ layout: landing
 
 <section id="timeline" class="wrapper style2">
   {% include sections/timeline.html %}
+</section>
+
+<section id="qa" class="wrapper style3">
+  {% include sections/qa.html %}
 </section>
