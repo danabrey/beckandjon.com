@@ -7,6 +7,7 @@ first_published: 2018
 email: danabrey@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "beckandjon.com" # the base hostname & protocol for your site
+google_analytics: "UA-119802449-1"
 
 social:
   email: wedding@beckandjon.com
