@@ -1,2 +1,4 @@
 - currently needs www.
-- Formspree form for Q&A
+- replace tortoise favicon
+- accommodation suggestions
+- travel/map
