@@ -1859,3 +1859,16 @@ $baseurl: '{{ site.baseurl }}/images';
   .scrolloff {
     pointer-events: none;
   }
+
+dt {
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+dd {
+	margin-bottom: 1.5rem;
+}
+
+input, textarea {
+	border: 1px solid #b8d1da !important;
+}

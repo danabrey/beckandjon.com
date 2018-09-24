@@ -6,10 +6,10 @@ owner: Dan Abrey
 first_published: 2018
 email: danabrey@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.beckandjon.com" # the base hostname & protocol for your site
+url: "beckandjon.com" # the base hostname & protocol for your site
 
 social:
-  github: https://github.com/danabrey/beckandjon.com
+  email: wedding@beckandjon.com
 
 # Build settings
 markdown: kramdown
